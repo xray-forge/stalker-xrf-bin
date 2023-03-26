@@ -1,4 +1,4 @@
-# [XRTS](../) / BIN
+# [XRF](../) / BIN
 
 Binaries and executable utilities needed for development or the game or game modification.
 
