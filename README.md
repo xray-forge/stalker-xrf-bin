@@ -1,4 +1,4 @@
-# [XRF](https://github.com/xray-forge/stalker-xrf-template) / BIN
+# [XRF](https://github.com/xray-forge/stalker-xrf-engine) / BIN
 
 Binaries and executable utilities needed for development or the game or game modification.
 
